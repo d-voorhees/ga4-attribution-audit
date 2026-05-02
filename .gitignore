@@ -1,0 +1,36 @@
+# Credentials and secrets
+.env
+*.json
+!examples/**/*.json
+service-account*.json
+credentials*.json
+
+# Real client exports
+*_real.csv
+*_real.xlsx
+exports/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Local reports (keep committed sample)
+report.md
+report.html
+!examples/sample_report.md
