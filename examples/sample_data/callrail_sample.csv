@@ -1,0 +1,13 @@
+call_id,call_start,duration_seconds,caller_number,tracking_number,landing_page,gclid,source,medium,campaign
+CR-1001,2026-05-08 14:32:00,245,+15551234001,+18885551001,https://www.harborgoods.com/pages/contact,CjwKCAjw123abc,google,cpc,spring-sale-search
+CR-1002,2026-05-12 10:15:00,180,+15551234002,+18885551001,https://www.harborgoods.com/products/harbor-chair,CjwKCAjw456def,google,cpc,spring-sale-search
+CR-1003,2026-05-15 16:45:00,320,+15551234003,+18885551002,https://www.harborgoods.com/promo/mailers-may,,facebook,paid,spring-sale-social
+CR-1004,2026-05-18 09:22:00,95,+15551234004,+18885551001,https://www.harborgoods.com/,CjwKCAjw789ghi,google,cpc,spring-sale-search
+CR-1005,2026-05-20 11:08:00,410,+15551234005,+18885551003,https://www.harborgoods.com/store-visit-qrcode,,direct,none,
+CR-1006,2026-05-22 15:30:00,155,+15551234006,+18885551001,https://www.harborgoods.com/pages/contact,CjwKCAjw012jkl,google,cpc,spring-sale-search
+CR-1007,2026-05-24 13:17:00,275,+15551234007,+18885551002,https://www.harborgoods.com/collections/sale,,bing,cpc,spring-sale-bing
+CR-1008,2026-05-26 17:55:00,190,+15551234008,+18885551001,https://www.harborgoods.com/products/harbor-chair,CjwKCAjw345mno,google,cpc,spring-sale-search
+CR-1009,2026-05-28 08:40:00,130,+15551234009,+18885551004,https://www.harborgoods.com/offline-flyer-landing,,offline,print,store-flyer-may
+CR-1010,2026-05-29 12:03:00,340,+15551234010,+18885551001,https://www.harborgoods.com/pages/contact,CjwKCAjw678pqr,google,cpc,spring-sale-search
+CR-1011,2026-05-14 14:32:05,200,+15551234011,+18885551001,https://www.harborgoods.com/pages/contact,CjwKCAjw123abc,google,cpc,spring-sale-search
+CR-1012,2026-05-19 10:15:03,160,+15551234012,+18885551001,https://www.harborgoods.com/products/harbor-chair,CjwKCAjw456def,google,cpc,spring-sale-search

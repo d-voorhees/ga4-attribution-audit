@@ -1,0 +1,44 @@
+client_name: Harbor Goods
+property_id: "987654321"
+
+date_range:
+  start: "2026-05-01"
+  end: "2026-05-30"
+
+conversion_events:
+  - purchase
+  - generate_lead
+  - phone_call_conversion
+
+channel_groupings:
+  - sessionDefaultChannelGroup
+
+duplicate_window_minutes: 5
+attribution_window_days: 30
+high_value_landing_page_threshold: 15
+suspicious_event_count_threshold: 80
+
+sources:
+  ga4:
+    mode: csv
+    path: sample_data/ga4_sample.csv
+  callrail:
+    mode: csv
+    path: sample_data/callrail_sample.csv
+  google_ads:
+    mode: csv
+    path: sample_data/ads_sample.csv
+
+utm_standard_mediums:
+  - cpc
+  - ppc
+  - paid
+  - organic
+  - email
+  - referral
+  - social
+  - display
+  - affiliate
+  - none
+  - "(none)"
+  - "(not set)"
